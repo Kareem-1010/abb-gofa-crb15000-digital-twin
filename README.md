@@ -144,10 +144,6 @@ This project was developed for research in human-robot interaction and digital t
 
 Contributions are welcome! Please feel free to submit issues or pull requests.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - ABB Robotics for the GoFa CRB 15000 platform
