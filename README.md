@@ -125,15 +125,6 @@ C:\Users\<user_name>\AppData\Local\ABB Industrial IT\Robotics IT\RobotWare\Robot
 
 ## Control Modes
 
-### Hand Gesture Control
-Uses MediaPipe for real-time hand tracking and gesture recognition to control the robot's position and gripper.
-
-### Voice Recognition
-Implements voice command processing for discrete robot movements and task execution.
-
-### VR Controller
-Provides immersive control through VR controllers for natural robot manipulation.
-
 ### Mouse Control
 Simple mouse-based interface for basic robot control and testing.
 
