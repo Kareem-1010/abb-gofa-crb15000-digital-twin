@@ -1,1 +1,0 @@
-# abb-gofa-crb15000-digital-twin
